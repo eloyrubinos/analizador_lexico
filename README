@@ -1,0 +1,4 @@
+- Descomprimir todo en la misma carpeta.
+- Ejecutar el comando "make" en dicha carpeta.
+- Guardar el código a analizar, con el nombre "concurrentSum.go" (hardcoded).
+- Ejecutar el analizador con "./anaLex".
