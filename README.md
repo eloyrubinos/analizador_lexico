@@ -18,7 +18,7 @@ Para ello se implementan un sistema de entrada con doble buffer centinela, el an
 El guion de la práctica se puede ver [aquí](./Guion).
 
 ###### Ejecución
-[Instrucciones](./REEDME).
+[Instrucciones](./README).
 
 Solo se ha probado en **Linux**.
 
